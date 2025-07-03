@@ -22,7 +22,7 @@
 
 ## 🔗 Portfolio & Links
 - 🌐 [Streamlit Portfolio](https://xyw6vuzbwub84olopiuus2.streamlit.app/)
-- 💼 [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN-ID) *(replace with actual link)*
+- 💼 [LinkedIn](https://www.linkedin.com/in/shaijushajahan) 
 
 ---
 
