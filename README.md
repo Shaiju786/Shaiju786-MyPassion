@@ -1,18 +1,42 @@
-# Shaiju786-MyPassion
-# Hi there 👋 I'm Shaiju
+# 👋 Hi, I'm Shaiju!
 
-🎯 **ERP & Logistics Expert | AI & Data Science Learner**  
-🔄 Transitioning from enterprise solutions to intelligent automation  
-🧠 Currently exploring: Python • Streamlit • Machine Learning • Oracle AI tools  
-📊 Passionate about turning supply chain data into insights that matter
+🎯 **ERP & Logistics Professional | Transitioning into AI & Data Science**  
+💡 Passionate about transforming business operations with intelligent automation and real-world data insights.
 
 ---
 
-## 🧰 My Projects
-- 🚀 [Expense Tracker App](https://expense-tracker-app-qgruvatbmah3nsrndcgrvu.streamlit.app/) – Built with Streamlit & Python
-- 📦 ERP + AI Use Cases – Coming soon!
-- 📘 AI Learning Notes – Summaries from my AI/ML courses
-- 📊 Freight Analytics Dashboard – AI-powered logistics insights (WIP)
+## 🌱 What I'm Learning
+- Python for data analysis and automation
+- Streamlit for building interactive dashboards
+- Machine Learning with scikit-learn
+- AI foundations through Oracle & AWS certifications
+
+---
+
+## 💼 Current Projects
+- 📊 [Expense Tracker App (Streamlit)](https://expense-tracker-app-qgruvatbmah3nsrndcgrvu.streamlit.app/) – Visualize and manage personal spending  
+- 🚚 ERP + AI Use Case – In-progress project on freight cost analytics  
+- 📘 AI Learning Notes – Coming soon!
+
+---
+
+## 🔗 Portfolio & Links
+- 🌐 [Streamlit Portfolio](https://xyw6vuzbwub84olopiuus2.streamlit.app/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN-ID) *(replace with actual link)*
+
+---
+
+## 🛠️ Tools & Technologies
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas)
+![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?logo=streamlit&logoColor=white)
+![Oracle](https://img.shields.io/badge/-Oracle-red?logo=oracle)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white)
+
+---
+
+📫 **Let’s connect and collaborate on meaningful AI solutions for real-world industries!**
+
 
 ---
 
