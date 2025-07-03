@@ -18,4 +18,4 @@
 
 ## 🌐 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/shaijushajahan)
-[![Portfolio](https://img.shields.io/badge/Streamlit_Portfolio-orange?logo=streamlit)
+[![Portfolio](https://img.shields.io/badge/Streamlit_Portfolio-orange?logo=streamlit)](https://github.com/Shaiju786/Shaiju786-MyPassion.git)
